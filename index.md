@@ -1,37 +1,14 @@
-## Welcome to GitHub Pages
+จากโจทย์ในรายวิชา CPSC342
 
-You can use the [editor on GitHub](https://github.com/Woraw/North_Wind_DB/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+1. นำโปรแกรมทั้ง s0 - s7 ไปปรับให้เข้ากับตารางทั้ง 8 ใน northwind
+แล้ว นำ code ทั้งหมด ส่งเข้า github.com แยก folder ตามตาราง
+2. ส่ง code ทั้งหมดเข้า free webhosting 2 host
+3. นำตาราง และข้อมูล northwind ที่อยู่ใน phpmyadmin เป็น .sql 
+ส่งเข้า github.com ด้วย
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+เว็บ Hosting : atwebpages.com
+< a href="http://taxtest.atwebpages.com/northwind_DB/desk_DB.htm">taxtest.atwebpages.com</a>
 
-### Markdown
+เว็บ Hosting : 000webhost.com
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Woraw/North_Wind_DB/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+< a href="worawatest.000webhostapp.com">worawatest.000webhostapp.com</a>
