@@ -7,8 +7,8 @@
 ส่งเข้า github.com ด้วย
 
 เว็บ Hosting : atwebpages.com
-< a href="http://taxtest.atwebpages.com/northwind_DB/desk_DB.htm">taxtest.atwebpages.com</a>
+http://taxtest.atwebpages.com/northwind_DB/desk_DB.htm
 
 เว็บ Hosting : 000webhost.com
 
-< a href="worawatest.000webhostapp.com">worawatest.000webhostapp.com</a>
+https://worawatest.000webhostapp.com/North_wind/desk_DB.htm
