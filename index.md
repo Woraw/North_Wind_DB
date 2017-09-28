@@ -13,7 +13,7 @@
 เว็บ Hosting : atwebpages.com
 มีปัญหาในการสร้างฐานข้อมูลผ่านคำสั่ง
 
-< a href="https://taxtest.atwebpages.com/northwind_DB/desk_DB.htm"> สร้างฐานข้อมูล atwebpages.com </a>
+< a href="http://taxtest.atwebpages.com/northwind_DB/desk_DB.htm"> สร้างฐานข้อมูล atwebpages.com </a>
 
 <br></br>
 เเว็บ Hosting : 000webhost.com
