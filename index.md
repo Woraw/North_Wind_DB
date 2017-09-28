@@ -1,4 +1,4 @@
-จากโจทย์ในรายวิชา CPSC342</a><br />
+จากโจทย์ในรายวิชา CPSC342
 
 1. นำโปรแกรมทั้ง s0 - s7 ไปปรับให้เข้ากับตารางทั้ง 8 ใน northwind
 แล้ว นำ code ทั้งหมด ส่งเข้า github.com แยก folder ตามตาราง
@@ -9,7 +9,7 @@
 เว็บ Hosting : atwebpages.com
 มีปัญหาในการสร้างฐานข้อมูลผ่านคำสั่ง
 
-< a href= https://taxtest.atwebpages.com/northwind_DB/desk_DB.htm> สร้างฐานข้อมูล atwebpages.com </a>
+< a href= https://taxtest.atwebpages.com/northwind_DB/desk_DB.htm > สร้างฐานข้อมูล atwebpages.com </a>
 
 <br></br>
 เเว็บ Hosting : 000webhost.com
