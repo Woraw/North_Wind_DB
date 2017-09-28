@@ -1,3 +1,7 @@
+นาย วรวัช ไชยธิ รหัสนักศึกาา 5808311007
+ชั้นปีที่ 3 คณะเทคโนโลยีสารสนเทศ สาขาคอมพิวเตอร์ธุรกิจ
+มหาวิทยาลัยเนชั่น จังหวัดลำปาง
+
 จากโจทย์ในรายวิชา CPSC342
 
 1. นำโปรแกรมทั้ง s0 - s7 ไปปรับให้เข้ากับตารางทั้ง 8 ใน northwind
@@ -9,10 +13,10 @@
 เว็บ Hosting : atwebpages.com
 มีปัญหาในการสร้างฐานข้อมูลผ่านคำสั่ง
 
-< a href= https://taxtest.atwebpages.com/northwind_DB/desk_DB.htm > สร้างฐานข้อมูล atwebpages.com </a>
+< a href="https://taxtest.atwebpages.com/northwind_DB/desk_DB.htm"> สร้างฐานข้อมูล atwebpages.com </a>
 
 <br></br>
 เเว็บ Hosting : 000webhost.com
 1. มีปัญหากับการขอสร้างฐานข้อมูลโดยการสั่งคำาั่งผ่านโค้ด
-< a href= https://worawatest.000webhostapp.com/North_wind/desk_DB.htm> สร้างฐานข้อมูล 000webhost.com </a>
+< a href="https://worawatest.000webhostapp.com/North_wind/desk_DB.htm"> สร้างฐานข้อมูล 000webhost.com </a>
 
