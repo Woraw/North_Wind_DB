@@ -9,10 +9,10 @@
 เว็บ Hosting : atwebpages.com
 มีปัญหาในการสร้างฐานข้อมูลผ่านคำสั่ง
 
-<a herf= http://taxtest.atwebpages.com/northwind_DB/desk_DB.htm>สร้างฐานข้อมูล atwebpages.com </a>
+<a herf= https://taxtest.atwebpages.com/northwind_DB/desk_DB.htm>สร้างฐานข้อมูล atwebpages.com </a>
 
 
 เเว็บ Hosting : 000webhost.com
-
+1. มีปัญหากับการขอสร้างฐานข้อมูลโดยการสั่งคำาั่งผ่านโค้ด
 < a href= https://worawatest.000webhostapp.com/North_wind/desk_DB.htm>สร้างฐานข้อมูล 000webhost.com</a>
 
